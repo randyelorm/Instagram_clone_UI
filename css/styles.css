@@ -1,0 +1,560 @@
+.body_container {
+     padding:0px !important;
+}
+
+
+/* navbar */
+.navbar-header {
+    padding: 0px;
+}
+
+.navbar-form {
+    display: inline;
+  
+}
+
+.search_input {
+    position: absolute;
+    left: 40%;
+}
+
+
+
+.search_input {
+ padding-left: 73px;
+  
+}
+
+.navbar-brand {
+    font-family: 'Rancho', cursive;
+    font-size: 35px;
+    color: black !important;
+}
+
+.fa-search {
+ position:absolute;
+ left:44%;
+ z-index: 999;
+ top:34%;
+
+}
+
+
+
+.nav_icons {
+font-size: 3rem;
+}
+
+
+
+.red_dot {
+    height: 5px;
+    width: 5px;
+    background-color:red;
+    border-radius: 50px;
+    position: absolute;
+    top:80%;
+    right:45%;
+
+}
+
+
+
+
+/* navbar */
+
+.right_col{
+    padding: 0px;
+    padding-left: 30px;
+    position: sticky;
+    top:0;
+}
+
+.profile_image {
+    height: 30px;
+    border-radius: 50px;
+    margin-right: 45px;
+}
+
+.profile_image2 {
+    height: 70px;
+    border-radius: 50px;
+    position: relative;
+}
+
+
+.pro_name {
+    position: absolute;
+    top: 2%;
+    right: 50%;
+    color:black;
+}
+
+.pro_name > span {
+    color:#777777;
+}
+
+.switch {
+   position: absolute;
+   left: 75%;
+   top:3%;
+   color:#0096FF;
+}
+
+.suggestions_box > p {
+    color:#777777;
+}
+
+.see_all {
+    margin-left: 125px;
+    color:black;
+}
+
+
+
+.suggestions_for_u_text {
+    margin-top: 10px;
+    margin-bottom: 25px;
+}
+
+
+
+.suggestions_profile_image1 {
+    height: 40px;
+    border-radius: 50px;
+    position: relative;
+
+}
+
+.suggestions_pro_name1 {
+    position: absolute;
+    left:20%;
+    top:26%;
+    font-size: 12px;
+}
+
+.suggestions_pro_name1 > a {
+ 
+ color:black;
+}
+
+.suggestions_pro_name1 > span {
+ 
+    color:#777777;
+}
+
+.follow1 {
+    position: absolute;
+    left:76%;
+    top:26%;
+    color:#0096FF;
+}
+
+
+
+
+
+.suggestions_profile_image2 {
+    margin-top: 20px;
+    height: 40px;
+    border-radius: 50px;
+    position: relative;
+
+}
+
+.suggestions_pro_name2 {
+    position: absolute;
+    left:20%;
+    top:36%;
+    font-size: 12px;
+}
+
+.suggestions_pro_name2 > a {
+ 
+    color:black;
+}
+
+
+.suggestions_pro_name2 > span {
+ 
+    color:#777777;
+}
+
+.follow2 {
+    position: absolute;
+    left:76%;
+    top:36%;
+    color:#0096FF;
+}
+
+
+
+
+
+.suggestions_profile_image3 {
+    margin-top: 20px;
+    height: 40px;
+    border-radius: 50px;
+    position: relative;
+
+}
+
+.suggestions_pro_name3 {
+    position: absolute;
+    left:20%;
+    top:47%;
+    font-size: 12px;
+}
+
+
+.suggestions_pro_name3 > a {
+ 
+    color:black;
+}
+
+.suggestions_pro_name3 > span {
+ 
+    color:#777777;
+}
+
+.follow3 {
+    position: absolute;
+    left:76%;
+    top:47%;
+    color:#0096FF;
+    
+}
+
+
+
+
+
+.suggestions_profile_image4 {
+    margin-top: 20px;
+    height: 40px;
+    border-radius: 50px;
+    position: relative;
+
+}
+
+
+
+.suggestions_pro_name4 {
+    position: absolute;
+    left:20%;
+    top:57%;
+    font-size: 12px;
+}
+
+.suggestions_pro_name4 > a {
+ 
+    color:black;
+}
+
+.suggestions_pro_name4 > span {
+ 
+    color:#777777;
+}
+
+.follow4 {
+    position: absolute;
+    left:76%;
+    top:57%;
+
+    color:#0096FF;
+}
+
+
+
+
+.suggestions_profile_image5 {
+    margin-top: 20px;
+    height: 40px;
+    border-radius: 50px;
+    position: relative;
+
+}
+
+
+.suggestions_pro_name5 {
+    position: absolute;
+    left:20%;
+    top:67%;
+    font-size: 12px;
+}
+
+
+.suggestions_pro_name5 > a {
+ 
+    color:black;
+}
+
+
+.suggestions_pro_name5 > span {
+ 
+    color:#777777;
+}
+
+.follow5 {
+    position: absolute;
+    left:76%;
+    top:68%;
+   color:#0096FF;
+}
+
+.footer-links {
+    Color:#777777;
+    font-size: 13px;
+}
+
+.footer-links:hover {
+    Color:#777777;
+   
+}
+
+
+
+/* middle col */
+/* main body */
+
+.main_body_box{
+    padding: 0px;
+  
+}
+
+.stories_box {
+
+    border:1px solid #d3d3d3;
+    padding: 10px;
+  
+    border-radius: 4px;
+
+}
+
+.stories_profile {
+    display: inline;
+    margin-right: 34px;
+}
+
+.stories_image {
+    height:70px;
+    border: 3px solid; 
+    border-color:rgb(255, 0, 76);
+    border-radius: 50px;
+    position: relative;
+    
+}
+
+.live {
+    position: absolute;
+    background-color: rgb(255, 0, 76);
+    color:white;
+    border: 1px solid white;
+    top:1.4%;
+    left:5%;
+}
+
+.stories_pro_name1 {
+    position: absolute;
+    top:1.9%;
+}
+
+.stories_pro_name2 {
+    position: absolute;
+    top:1.9%;
+    left: 17%;
+}
+ .stories_pro_name3 {
+    position: absolute;
+      left: 35%;
+      top:1.9%;
+}
+
+.stories_pro_name4 {
+    position: absolute;
+      left: 51%;
+      top:1.9%;
+}
+
+
+.stories_pro_name5 {
+    position: absolute;
+      left: 68%;
+      top:1.9%;
+}
+
+.stories_pro_name6 {
+    position: absolute;
+      left: 84%;
+      top:1.9%;
+}
+
+
+
+
+.post1 {
+    border: 1px solid #d2d2d2;
+  
+    
+
+}
+
+.post_profile_name {
+    font-weight: bold;
+}
+
+.post_profile_image {
+    height: 45px;
+    border-radius: 50px;
+    position: relative;
+    margin: 10px 2px 10px 10px;
+}
+
+
+
+
+.picture_post {
+    padding:0px;
+}
+
+.interaction_icons_box {
+padding:10px;
+margin-right: 10px;
+}
+
+.interaction_icons {
+    font-size: 25px;
+    margin-right: 20px;
+}
+
+
+
+.fa-paper-plane {
+    font-size: 25px;
+
+}
+
+.fa-bookmark {
+    font-size: 25px;
+    margin-left: 77%;
+}
+
+.total_likes {
+ padding-left: 5px;
+ font-weight: bold;
+    
+}
+
+
+.post_text_box {
+    padding:10px;
+}
+
+
+.post_text_box > a {
+color:black;
+font-weight: bold;
+}
+
+
+    
+
+.more {
+    color:#777777;
+}
+
+.view_comments {
+    color:#777777;
+    font-size: 14px;
+    margin: 5px 0px 5px 0px;
+} 
+
+.comment_names {
+    color:black;
+    font-weight: bold;
+    margin-right: 5px;
+}
+
+
+.comment_names:hover {
+    color:black;
+    
+}
+
+.heart_comment_icon1 {
+margin-left: 65%;
+}
+
+.heart_comment_icon2 {
+    margin-left: 72%;
+}
+
+.time_stamp {
+    color:#777777;
+    font-size: 13px;
+}
+
+.comment_line_breaker {
+    margin: 0px;
+    margin-bottom: 20px;
+ 
+}
+
+.comment_input {
+    margin-left: 10px;
+    border: none;
+}
+
+.comment_input:focus {
+    border: none;
+    outline: none;
+}
+
+.fa-smile {
+    font-size: 25px;
+    margin-left: 10px;
+   
+}
+
+.post {
+    margin-left: 62%;
+    color:#0096FF;
+}
+
+
+
+.post_profile_elipsis1{
+    position: absolute;
+    top: 3.5%;
+    left:93%;
+    padding: 10px;
+}
+
+
+.post_profile_elipsis2 {
+    position: absolute;
+    top: 24.4%;
+    left:93%;
+    padding: 10px;
+}
+
+.post_profile_elipsis3 {
+    position: absolute;
+    top: 44.4%;
+    left:93%;
+    padding: 10px;
+}
+
+.post_profile_elipsis4 {
+    position: absolute;
+    top: 62.9%;
+    left:93%;
+    padding: 10px;
+}
+
+.post_profile_elipsis5 {
+    position: absolute;
+    top: 82.0%;
+    left:93%;
+    padding: 10px;
+}
